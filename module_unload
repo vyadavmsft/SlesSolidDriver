@@ -1,0 +1,9 @@
+rmmod rdma_ucm.ko
+rmmod rdma_cm.ko
+rmmod iw_cm.ko
+rmmod ib_cm.ko
+rmmod rdma_ucm.ko
+rmmod ib_mad.ko
+rmmod ib_addr.ko
+rmmod ib_core.ko
+
