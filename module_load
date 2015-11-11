@@ -1,0 +1,8 @@
+modprobe ib_core
+modprobe ib_addr
+modprobe ib_mad
+modprobe rdma_ucm
+modprobe rdma_cm
+modprobe ib_cm
+modprobe iw_cm
+insmod *.ko
